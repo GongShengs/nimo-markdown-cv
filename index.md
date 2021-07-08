@@ -1,6 +1,6 @@
 ---
-layout: cv
-title: Wode "Nimo" Ni
+layout: 简历
+title: 胡武强-技术美术
 email:
   url: mailto:2088625171@qq.com
   text: 2088625171@qq.com
@@ -51,7 +51,6 @@ Supported arguments:
 
 - 重庆帕斯亚科技发展有限公司&emsp; &emsp; &emsp;  技术美术`2019.10至今`
 <br>
-<br>
 - 北京大呈印象科技发展有限公司&emsp; &emsp; &emsp;  游戏CG特效设计师`2016.12-2019.9`
 
 ## 项目经历
@@ -59,11 +58,8 @@ Supported arguments:
 ### 沙市镇时光
 
 - 简介
-
   - 一款模拟经营类游戏，《波西亚时光》的正统续作
-
 - 职责描述：
-
   - 工具开发。开发能提高美术工作效率的工具，资源检查修改工具
   <br>
   - 表现优化。双向映射，具有光影的Billboard Cloud表现调整及生产流程等
@@ -75,11 +71,8 @@ Supported arguments:
 ### 无昼之海
 
 - 简介：
-
   - 未上线，是一款卡通风格的RPG冒险养成的手机游戏
-
 - 职责描述：
-
   - PCG相关。使用houdini制作开放世界地图以及各种程序化美术工具
   <br>
   - Shader相关。优化角色渲染，更新美术的角色模型资产制作流程以适配表现需求
