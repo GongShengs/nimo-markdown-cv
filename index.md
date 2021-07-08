@@ -2,14 +2,14 @@
 layout: cv
 title: Wode "Nimo" Ni
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: mailto:2088625171@qq.com
+  text: 2088625171@qq.com
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: http://huwuqiang.com
+  text: huwuqiang.com
 ---
 
-# Wode **Ni**
+# 胡武强
 
 <!--
 include contact information from the front matter
@@ -21,34 +21,6 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Education
-
-### **Carnegie Mellon University** `2018.9 -`
-
-```
-Pittsburgh, PA
-```
-
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
-
-### **Columbia University** `2016.9 - 2018.5`
-
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
-
-```
-Carlisle, PA
-```
-
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
 
 ## Publications
 
@@ -151,6 +123,35 @@ Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
 
 Reviewer `CHI 2021`
 Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2020`
+
+## Education
+
+### **Carnegie Mellon University** `2018.9 -`
+
+```
+Pittsburgh, PA
+```
+
+- Ph.D. in Software Engineering
+- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+
+### **Columbia University** `2016.9 - 2018.5`
+
+```
+New York, NY
+```
+
+- B.S. in Computer Science, _Magna Cum Laude_
+- Vision, Graphics track
+
+### **Dickinson College** `2013.9 - 2016.5`
+
+```
+Carlisle, PA
+```
+
+- B.S. in Computer Science, _Summa Cum Laude_
+- Computer Science Departmental Honors
 
 <!-- ### Footer
 
