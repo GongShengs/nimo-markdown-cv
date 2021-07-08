@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Wode "胡武强-技术美术" Ni
+title: 胡武强-技术美术
 email:
   url: mailto:2088625171@qq.com
   text: 2088625171@qq.com
