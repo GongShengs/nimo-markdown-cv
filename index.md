@@ -11,6 +11,7 @@ phone: 15584314028
 ---
 
 # 胡武强
+### 技术美术
 
 <!--
 include contact information from the front matter
@@ -24,9 +25,10 @@ Supported arguments:
 
 ## 基本信息
 
-&emsp; &emsp; 求职岗位：技术美术&emsp; &emsp; &emsp; &emsp; 现居地址：重庆
+&emsp; &emsp; 求职岗位：技术美术&emsp; &emsp; &emsp; &emsp; &emsp;现居地址：重庆
 <br>
-&emsp; &emsp; 期望薪资：面议&emsp;&emsp; &emsp; &emsp; &emsp;&emsp; 
+<br>
+&emsp; &emsp; 期望薪资：面议&
 ## 专业技能
 
 - 掌握 C#面向对象 以及 Unity 引擎面向组件开发思想和常用组件方法
