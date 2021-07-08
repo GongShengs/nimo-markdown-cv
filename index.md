@@ -7,6 +7,9 @@ email:
 homepage:
   url: http://huwuqiang.com
   text: huwuqiang.com
+phone:
+  url: 15584314028
+  text: 15584314028
 ---
 
 # 胡武强
@@ -23,9 +26,9 @@ Supported arguments:
 
 ## 基本信息
 
-Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
-Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
+求职岗位：技术美术
+现居地址：重庆
+
 
 ## 专业技能
 
@@ -47,16 +50,9 @@ Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/r
 
 ## 项目经历
 
-CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
+###沙市镇时光
+
+###无昼之海
 
 ---
 
@@ -68,7 +64,7 @@ John Montgomery Scholarship `Dickinson, 2013` <br>
 Pittsburgh, PA
 ```
 
-- 动画艺术
+- 动画艺术 本科
 
 
 
