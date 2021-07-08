@@ -28,23 +28,24 @@ Supported arguments:
 
 &emsp; &emsp; 求职岗位：技术美术&emsp; &emsp; &emsp; &emsp; &emsp;现居地址：重庆
 <br>
-&emsp; &emsp; 期望薪资：面议
+&emsp; &emsp; 期望薪资：面议&emsp; &emsp; &emsp; &emsp;年龄：27岁
 
 ## 专业技能
 
-- 掌握 C#面向对象 以及 Unity 引擎面向组件开发思想和常用组件方法
+- 熟悉 C# 以及 Unity 引擎面向组件开发思想和常用组件方法
 <br>
-- 熟悉 Shader，常用效果开发，对美术进行全方位的技术支持，UI、特效、地编等等
+- 熟悉 Houdini，PCG开发，有丰富的使用经验，vex和Hpython熟练 ，编写过houdini的QT插件
+<br>
+- 熟悉 编辑器扩展，能根据美术需求开发相对应的美术编辑器，熟悉Odin，UnityEditor
+<br>
+- 熟悉 Shader，常用效果开发，对美术进行全方位的技术支持
 <br>
 - 了解 图形优化和调试，可通过 Renderdoc 等图形调试工具进行渲染调试、分析、优化
 <br>
 - 了解 图形学基础、Opengl基础、以及3D数学基础
 <br>
-- 了解 Maya建模、PS改图、SD、SP，能配合 Shader 做一些效果
-<br>
-- 了解 Houdini，可程序化建模，以及 VEX 的简单编写，多用来对模型规则化操作
-<br>
-- 了解 编辑器扩展，进行 Unity 工具开发，方便美术使用，提高工作效率
+- 了解 Maya建模、PS改图、SD、SP，能根据 Shader 的需求进行美术资产预生产和流程制定
+
 
 ## 工作经历
 - 重庆帕斯亚科技发展有限公司&emsp; &emsp; &emsp;  技术美术`2019.10至今`
@@ -56,7 +57,7 @@ Supported arguments:
 ### 沙市镇时光
 
 - 简介
-  - 一款模拟经营类游戏，《波西亚时光》的正统续作
+  - 一款卡通风格的模拟经营类游戏，《波西亚时光》的正统续作
 - 职责描述：
   - 工具开发。开发能提高美术工作效率的工具，资源检查修改工具
   <br>
