@@ -1,6 +1,4 @@
 ---
-layout: cv
-title: Wode "Nimo" Ni
 email:
   url: mailto:2088625171@qq.com
   text: 2088625171@qq.com
@@ -28,8 +26,7 @@ Supported arguments:
 ## 基本信息
 
 &emsp; &emsp; 求职岗位：技术美术&emsp; &emsp; &emsp; &emsp; &emsp;现居地址：重庆
-<br>
-<br>
+
 &emsp; &emsp; 期望薪资：面议
 
 ## 专业技能
@@ -51,7 +48,6 @@ Supported arguments:
 ## 工作经历
 
 - 重庆帕斯亚科技发展有限公司&emsp; &emsp; &emsp;  技术美术`2019.10至今`
-<br>
 <br>
 - 北京大呈印象科技发展有限公司&emsp; &emsp; &emsp;  游戏CG特效设计师`2016.12-2019.9`
 
