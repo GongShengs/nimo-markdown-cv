@@ -7,9 +7,7 @@ email:
 homepage:
   url: http://huwuqiang.com
   text: huwuqiang.com
-phone:
-  url: 15584314028
-  text: 15584314028
+phone: 15584314028
 ---
 
 # 胡武强
@@ -26,8 +24,8 @@ Supported arguments:
 
 ## 基本信息
 
-求职岗位：技术美术
-现居地址：重庆
+&emsp; &emsp; 求职岗位：技术美术&emsp; &emsp; &emsp; &emsp; 现居地址：重庆
+&emsp; &emsp; 期望薪资：面议&emsp;&emsp; &emsp; &emsp; &emsp;&emsp; 
 
 
 ## 专业技能
@@ -50,11 +48,12 @@ Supported arguments:
 
 ## 项目经历
 
-###沙市镇时光
-######模拟经营类游戏，是《波西亚时光》的正统续作
+### 沙市镇时光
+- 简介
+  - 模拟经营类游戏，是《波西亚时光》的正统续作
 - 职责描述：
-  - 工具开发。开发能提高美术工作效率的工具
-###无昼之海
+  - 负责工具开发。开发能提高美术工作效率的工具，资源检查修改工具
+### 无昼之海
 
 ---
 
