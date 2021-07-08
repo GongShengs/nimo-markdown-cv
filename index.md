@@ -1,6 +1,6 @@
 ---
-layout: 
-title: 
+layout: cv
+title: Wode "Nimo" Ni
 email:
   url: mailto:2088625171@qq.com
   text: 2088625171@qq.com
