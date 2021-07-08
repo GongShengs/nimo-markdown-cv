@@ -21,7 +21,7 @@ Supported arguments:
 -->
 
 {% include cv-contact.html %}
-
+多年的魔兽世界玩家，也很喜欢人任系的诸多游戏。
 ## 基本信息
 
 &emsp; &emsp; 求职岗位：技术美术&emsp; &emsp; &emsp; &emsp; &emsp;现居地址：重庆
