@@ -1,6 +1,6 @@
 ---
-layout: 简历
-title: 胡武强-技术美术
+layout: cv
+title: Wode "胡武强-技术美术" Ni
 email:
   url: mailto:2088625171@qq.com
   text: 2088625171@qq.com
@@ -48,9 +48,9 @@ Supported arguments:
 - 了解 编辑器扩展，进行 Unity 工具开发，方便美术使用，提高工作效率
 
 ## 工作经历
-
 - 重庆帕斯亚科技发展有限公司&emsp; &emsp; &emsp;  技术美术`2019.10至今`
 <br>
+
 - 北京大呈印象科技发展有限公司&emsp; &emsp; &emsp;  游戏CG特效设计师`2016.12-2019.9`
 
 ## 项目经历
@@ -69,7 +69,6 @@ Supported arguments:
   - 地形流程。使用houdini，world machine等进行世界地形的流程搭建，生产以及修改
 
 ### 无昼之海
-
 - 简介：
   - 未上线，是一款卡通风格的RPG冒险养成的手机游戏
 - 职责描述：
