@@ -31,9 +31,9 @@ Supported arguments:
 
 ## 专业技能
 
-- 熟悉 Houdini，PCG开发，有丰富的使用经验，vex和Hpython熟练 ，编写过houdini的QT插件，魔改Houdini Engine For UE
+- 熟悉 Houdini，PCG开发，有丰富的使用经验，vex和Hpython熟练 ，编写过houdini的QT插件，魔改 Houdini Engine For UE
 <br>
-- 熟悉 C# 以及 Unity 引擎面向组件开发思想和常用组件方法,熟悉Unreal编辑器及插件编写
+- 熟悉 C# 以及 Unity 引擎面向组件开发思想和常用组件方法, 熟悉 Unreal编辑器 及 插件编写
 <br>
 - 熟悉 编辑器扩展，能根据美术需求开发相对应的美术编辑器，熟悉Odin，UnityEditor
 <br>
@@ -59,6 +59,12 @@ Supported arguments:
 - 北京大呈印象科技发展有限公司&emsp; &emsp; &emsp;  Cg特效设计实习生`2016.12-2017.4`
 
 ## 项目经历
+
+### 代号KBM/代号1UP/代号TZ
+
+- 职责描述：
+    - 城市群建筑功能开发，城市建筑的PCG方案开发，基于黑客帝国功能二次开发
+    - 岛屿批量化生成开发，基于风格化的岛屿自动化生产方案
 
 ### 龙石战争
 
