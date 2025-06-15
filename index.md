@@ -31,9 +31,9 @@ Supported arguments:
 
 ## 专业技能
 
-- 熟悉 Houdini，PCG开发，有丰富的使用经验，vex和Hpython熟练 ，编写过houdini的QT插件
+- 熟悉 Houdini，PCG开发，有丰富的使用经验，vex和Hpython熟练 ，编写过houdini的QT插件，魔改Houdini Engine For UE
 <br>
-- 熟悉 C# 以及 Unity 引擎面向组件开发思想和常用组件方法
+- 熟悉 C# 以及 Unity 引擎面向组件开发思想和常用组件方法,熟悉Unreal编辑器及插件编写
 <br>
 - 熟悉 编辑器扩展，能根据美术需求开发相对应的美术编辑器，熟悉Odin，UnityEditor
 <br>
@@ -59,6 +59,11 @@ Supported arguments:
 - 北京大呈印象科技发展有限公司&emsp; &emsp; &emsp;  Cg特效设计实习生`2016.12-2017.4`
 
 ## 项目经历
+
+### 龙石战争
+
+- 职责描述：
+    - PCG开发。主要配合制定和开发SLG类型的PCG生产方案，提高超大尺寸的场景生产。
 
 ### 沙市镇时光
 
