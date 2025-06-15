@@ -5,8 +5,8 @@ email:
   url: mailto:2088625171@qq.com
   text: 2088625171@qq.com
 homepage:
-  url: http://huwuqiang.com
-  text: huwuqiang.com
+  url: https://gongshengs.github.io/
+  text: gongshengs.com
 phone: 15584314028
 ---
 
