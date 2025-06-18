@@ -60,18 +60,14 @@ Supported arguments:
 
 ## 项目经历
 
-### Tenctent Game
-
-#### 龙石战争   
+### 龙石战争 - Tencent Game   
 - 简介：
   - 美式卡通风格的SLG类型的移动端游戏                             
 - 职责描述：
   - 基于SLG类型的PCG方案设计及开发。地图生成功能开发，植被，河流，山脉等生成逻辑开发，搭建测试用例等
   <br>
-
-### Tenctent Game
-
-#### 代号1UP
+    
+### 代号1UP - Tencent Game   
 - 简介：
   - 风格化渲染的FPS类型的PC端游戏
 - 职责描述：
@@ -79,10 +75,8 @@ Supported arguments:
   <br>
   - 工具开发优化，自定义Houdini Engine For UE, 碰撞工具优化调整
   <br>
-
-### Tenctent Game
-
-#### 代号TZ
+            
+### 代号TZ - Tencent Game   
 - 简介：
   - 中国风格的修仙RPG类型的多端游戏
 - 职责描述：
@@ -92,54 +86,43 @@ Supported arguments:
   <br>
   - PCG岛屿生成方案开发。风格化的自动化岛屿生成方案，包含风格化造型，植被，道路及水域生成
   <br>
-
-### Tenctent Game
-
-#### 群星纪元
+    
+### 群星纪元 - Tencent Game   
 - 简介：
   - 星际风格的SLG类型的移动端游戏
 - 职责描述：
   - 基于SLG类型的PCG方案设计及开发。功能设计，地图关卡设计级植被分布方案设计
   <br>
-
-### Tenctent Game
-
-#### 代号YRH
+    
+### 代号YRH - Tencent Game   
 - 简介：
   - SLG类型的移动端游戏
 - 职责描述：
   - 渲染表现优化。角色材质制作优化
   <br>
-
-### Tenctent Game 
-#### 代号LX
+  
+### 代号LX - Tencent Game   
 - 简介：
   - 二次元横板移动端游戏
 - 职责描述：
   - 渲染表现优化。角色材质功能制作，竞品效果逆向工作
   <br>
-
-### Tenctent Game
-
-#### 塔瑞斯世界
+    
+### 塔瑞斯世界 - Tencent Game   
 - 简介：
   - 卡通风格的MMORPG类型的多端游戏
 - 职责描述：
   - 工具开发优。HLOD工具流程优化。
   <br>
-
-### Tenctent Game
-
-#### 湮灭之潮
+    
+### 湮灭之潮 - Tencent Game   
 - 简介：
   - 3A级的主机动作游戏
 - 职责描述：
   - 工具开发。体积云合并工具开发，基于UE5-Houdini串联的插件化工具。
   <br>
 
-### Pathea Game
-
-#### 沙市镇时光
+### 沙市镇时光 - Pathea Game
 
 - 简介
   - 一款卡通风格的模拟经营类游戏，《波西亚时光》的续作
@@ -152,9 +135,7 @@ Supported arguments:
   <br>
   - 地形流程。使用houdini，world machine等进行世界地形的流程搭建，生产以及修改
 
-### Pathea Game
-
-#### 无昼之海
+### 无昼之海 - Pathea Game
 - 简介：
   - 未上线，是一款卡通风格的RPG冒险养成的手机游戏
 - 职责描述：
