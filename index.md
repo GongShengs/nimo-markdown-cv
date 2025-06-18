@@ -6,7 +6,7 @@ email:
   text: 2088625171@qq.com
 homepage:
   url: https://gongshengs.github.io/
-  text: gongshengs.com
+  text: GongSheng.com
 phone: 15584314028
 ---
 
