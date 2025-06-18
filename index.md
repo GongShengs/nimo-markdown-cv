@@ -122,7 +122,7 @@ Supported arguments:
   - 工具开发。体积云合并工具开发，基于UE5-Houdini串联的插件化工具。
   <br>
 
-### 沙市镇时光 - Pathea Game
+### 沙石镇时光 - Pathea Game
 
 - 简介
   - 一款卡通风格的模拟经营类游戏，《波西亚时光》的续作
