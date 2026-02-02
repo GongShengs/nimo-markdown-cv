@@ -1,1 +1,17 @@
-markdown:   kramdown
+markdown: kramdown
+
+# Site configuration
+title: CV
+description: Markdown CV Generator
+
+# Default language
+lang: zh
+
+# Available languages
+languages:
+  - zh
+  - en
+
+# Language-specific files
+# Chinese: index.md (default)
+# English: index-en.md

@@ -13,6 +13,17 @@ See Live example of this template [here](http://wodenimoni.com/nimo-markdown-cv/
 
 ***
 
+## Multi-language Support
+
+This project supports multiple language versions of your CV:
+
+- **Chinese (default)**: `index.md` → Access at `/` or `/index.html`
+- **English**: `index-en.md` → Access at `/index-en.html`
+
+To create a new language version, simply copy `index.md` to `index-{lang}.md` and translate the content.
+
+***
+
 ## Getting started
 
 To start, simply [fork the nimo-markdown-cv repo](https://github.com/wodeni/nimo-markdown-cv)
@@ -26,6 +37,8 @@ Your resume content will be contained in `index.md`, which has an example cv. St
 1. Go to *Settings* of you git repo. ![](assets/README-5d16f.png)
 2. In the *Github Pages* section, choose *master branch*, which will automatically build your cv and serve it on your free GitHub Pages website. ![](assets/README-0669e.png)
 3. Head to *yourusername*.github.io/nimo-markdown-cv to see your beautiful CV.
+   - **Chinese CV**: *yourusername*.github.io/nimo-markdown-cv/
+   - **English CV**: *yourusername*.github.io/nimo-markdown-cv/index-en.html
 
 Any change you want to make to your CV from then on would have to be done on the `master` branch and will be immediately rendered by Github Pages.
 
