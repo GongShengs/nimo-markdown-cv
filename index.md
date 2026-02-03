@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: 胡武强-技术美术
+title: 胡武强-资深技术美术
 email:
   url: mailto:2088625171@qq.com
   text: 2088625171@qq.com
@@ -10,7 +10,7 @@ homepage:
 phone: 15584314028
 ---
 
-# 胡武强-技术美术
+# 胡武强-资深技术美术
 
 <!--
 include contact information from the front matter
@@ -25,7 +25,7 @@ Supported arguments:
 <br>
 ## 基本信息
 
-&emsp; &emsp; 求职岗位：技术美术&emsp; &emsp; &emsp; &emsp; &emsp;现居地址：深圳
+&emsp; &emsp; 求职岗位：资深技术美术&emsp; &emsp; &emsp; &emsp; &emsp;现居地址：深圳
 <br>
 &emsp; &emsp; 期望薪资：面议
 
@@ -48,7 +48,7 @@ Supported arguments:
 
 ## 工作经历
 
-- 腾讯科技（深圳）有限公司&emsp; &emsp; &emsp;  技术美术`2021.12至今`
+- 腾讯科技（深圳）有限公司&emsp; &emsp; &emsp;  资深技术美术`2021.12至今`
 <br>
 - 重庆帕斯亚科技发展有限公司-CCC&emsp; &emsp; &emsp;  技术美术`2020.11-2021.12`
 <br>

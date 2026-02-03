@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Wuqiang Hu - Technical Artist
+title: Wuqiang Hu - Senior Technical Artist
 email:
   url: mailto:2088625171@qq.com
   text: 2088625171@qq.com
@@ -10,7 +10,7 @@ homepage:
 phone: +86 15584314028
 ---
 
-# Wuqiang Hu - Technical Artist
+# Wuqiang Hu - Senior Technical Artist
 
 <!--
 include contact information from the front matter
@@ -25,7 +25,7 @@ Supported arguments:
 <br>
 ## Basic Information
 
-&emsp; &emsp; Position: Technical Artist &emsp; &emsp; &emsp; &emsp; &emsp; Location: Shenzhen, China
+&emsp; &emsp; Position: Senior Technical Artist &emsp; &emsp; &emsp; &emsp; &emsp; Location: Shenzhen, China
 <br>
 &emsp; &emsp; Expected Salary: Negotiable
 
@@ -48,15 +48,15 @@ Supported arguments:
 
 ## Work Experience
 
-- Tencent Technology (Shenzhen) Co., Ltd. &emsp; &emsp; &emsp; Technical Artist `2021.12 - Present`
+- Tencent Technology (Shenzhen) Co., Ltd. &emsp; &emsp; &emsp; Senior Technical Artist `2021.12 - Present`
 <br>
 - Chongqing Pathea Technology Co., Ltd. - CCC &emsp; &emsp; &emsp; Technical Artist `2020.11 - 2021.12`
 <br>
 - Chongqing Pathea Technology Co., Ltd. - Zheergen &emsp; &emsp; &emsp; Technical Artist `2019.10 - 2020.11`
 <br>
-- Beijing Dacheng Impression Technology Co., Ltd. &emsp; &emsp; &emsp; CG VFX Designer `2017.4 - 2019.9`
+- Beijing Dacheng Impression Technology Co., Ltd. &emsp; &emsp; &emsp; CG VFX Artist `2017.4 - 2019.9`
 <br>
-- Beijing Dacheng Impression Technology Co., Ltd. &emsp; &emsp; &emsp; CG VFX Design Intern `2016.12 - 2017.4`
+- Beijing Dacheng Impression Technology Co., Ltd. &emsp; &emsp; &emsp; CG VFX Artist Intern `2016.12 - 2017.4`
 
 ## Project Experience
 
