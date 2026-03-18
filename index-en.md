@@ -48,15 +48,15 @@ Supported arguments:
 
 ## Work Experience
 
-- Tencent Technology (Shenzhen) Co., Ltd. &emsp; &emsp; &emsp; Senior Technical Artist `2021.12 - Present`
+- Tencent Technology (Shenzhen) Co., Ltd. - Senior Technical Artist `2021.12 - Present`
 <br>
-- Chongqing Pathea Technology Co., Ltd. - CCC &emsp; &emsp; &emsp; Technical Artist `2020.11 - 2021.12`
+- Chongqing Pathea Technology Co., Ltd. - CCC - Technical Artist `2020.11 - 2021.12`
 <br>
-- Chongqing Pathea Technology Co., Ltd. - Zheergen &emsp; &emsp; &emsp; Technical Artist `2019.10 - 2020.11`
+- Chongqing Pathea Technology Co., Ltd. - Zheergen - Technical Artist `2019.10 - 2020.11`
 <br>
-- Beijing Dacheng Impression Technology Co., Ltd. &emsp; &emsp; &emsp; CG VFX Artist `2017.4 - 2019.9`
+- Beijing Dacheng Impression Technology Co., Ltd. - CG VFX Artist `2017.4 - 2019.9`
 <br>
-- Beijing Dacheng Impression Technology Co., Ltd. &emsp; &emsp; &emsp; CG VFX Artist Intern `2016.12 - 2017.4`
+- Beijing Dacheng Impression Technology Co., Ltd. - CG VFX Artist Intern `2016.12 - 2017.4`
 
 ## Project Experience
 
